@@ -9,6 +9,6 @@ otherwise an error message appears.
 RESULTS:
 * For the first two sub-assignments the results are similar to each other and to the sample-results given.
 * For the last sub-assignment the results are:
-** Naive implementation took: 6795 millis
-  Stack implementation took: 792 millis
+    Naive implementation took: 6795 millis
+    Stack implementation took: 792 millis
 
